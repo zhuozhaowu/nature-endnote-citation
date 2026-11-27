@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature EndNote Citation"
+  short_description: "Insert real EndNote fields in DOCX manuscripts"
+  default_prompt: "Use $nature-endnote-citation to convert manuscript citations into real Word EndNote fields."
